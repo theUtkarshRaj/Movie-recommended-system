@@ -1,4 +1,4 @@
-# Movie Prediction
+# Movie Recommended System
 
 This project provides a web application for predicting movie ratings or success using a pre-trained machine learning model. The application is built using Streamlit and allows users to input various movie features to get predictions.
 
